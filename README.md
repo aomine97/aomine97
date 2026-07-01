@@ -34,7 +34,7 @@ Built solo end to end: Next.js 14 · Supabase · Stripe · Anthropic Claude API 
 
 Cloud and developer internships in the DC metro area (2025/2026).
 
-📬 [YOUR-EMAIL]
+📬 navavinga@gmail.com
 
 ---
 
