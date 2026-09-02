@@ -1,41 +1,10 @@
-# Hi, I'm Pranav 👋
+CS student at NOVA. I build products end to end and ship them.
 
-IT student at NOVA (Northern Virginia Community College), cloud computing focus. I build real software and ship it.
+**[FairRVU](https://fairrvu.com)** — AI contract analysis for physicians. Upload an employment contract, get an 8-page financial breakdown against MGMA specialty benchmarks in 60 seconds. Live, with paying customers. Built solo: Next.js 14, Supabase, Stripe, Claude API, Puppeteer.
 
----
+**Paced** — a personal finance app that texts you where your money went. Plaid for bank data, Postgres and Deno edge functions on Supabase, React Native, Twilio. Live database, ten edge functions in production.
 
-## What I'm working on
+**Stack** — TypeScript · React / Next.js · React Native · Postgres · Supabase · Deno · Stripe · Plaid · AWS
 
-**[FairRVU](https://fairrvu.com)** — AI SaaS for physician contract analysis. Live product with paying customers. Physicians upload their employment contract and get an 8-page financial analysis report in 60 seconds, comparing their deal to MGMA specialty benchmarks.
-
-Built solo end to end: Next.js 14 · Supabase · Stripe · Anthropic Claude API · Puppeteer · Netlify
-
----
-
-## Stack
-
-**Languages:** TypeScript, JavaScript, SQL  
-**Frontend:** Next.js (App Router), React, Tailwind CSS  
-**Backend:** Supabase (Postgres, RLS), Netlify Functions, REST APIs  
-**Payments:** Stripe (checkout + webhook fulfillment)  
-**AI:** Anthropic Claude API  
-**Cloud / Infra:** AWS (studying for certs), Netlify, Vercel  
-
----
-
-## Studying
-
-- AWS Cloud Practitioner → Solutions Architect
-- Cloud computing & distributed systems at NOVA
-
----
-
-## Looking for
-
-Cloud and developer internships in the DC metro area (2025/2026).
-
-📬 navavinga@gmail.com
-
----
-
-*I ship things. Check the pinned repos.*
+Looking for SWE internships in the DC metro area, 2026.
+navavinga@gmail.com
