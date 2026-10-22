@@ -6,7 +6,7 @@ CS student at Northern Virginia Community College, transferring to George Mason 
 
 ### [Flaavi](https://flaavi.app) — [showcase repo](https://github.com/aomine97/flaavi-showcase)
 
-Consent-first AI video: put yourself, a friend who said yes, or a character you invent into any short clip, keeping every line and move, in your own voice. Solo-built end to end: web app, API, a credit ledger in Postgres, a GPU-free render pipeline on fal, voice cloning, automatic safety checks and live Stripe billing, plus an iPhone app. Launching October 2026.
+Consent-first AI video: put yourself, a friend who said yes, or a character you invent into any short clip, keeping every line and move, in your own voice. Solo-built end to end: web app, API, a credit ledger in Postgres, a render pipeline on Modal and fal, voice cloning, automatic safety checks and live Stripe billing, plus an iPhone app. Launching October 2026.
 
 `Next.js` `TypeScript` `Python / FastAPI` `Supabase (Postgres + RLS)` `Modal` `fal` `ElevenLabs` `AWS Rekognition` `Stripe` `SwiftUI`
 
