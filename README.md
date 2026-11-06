@@ -1,6 +1,6 @@
 # Pranav Nepal
 
-CS student at NOVA, transferring to George Mason. I build and ship full-stack apps.
+CS student at NOVA.
 
 ## Projects
 
