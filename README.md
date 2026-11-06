@@ -4,22 +4,22 @@ CS student at NOVA, transferring to George Mason. I build and ship full-stack ap
 
 ## Projects
 
-**[Geovo](https://geovo.app)**: iPhone location simulator for Mac, Windows and iPhone. 74 paying customers in the first 6 weeks.<br>
-Rust · Tauri · TypeScript · Swift · Supabase · Stripe · [showcase](https://github.com/aomine97/geovo-showcase)
+**[Geovo](https://github.com/aomine97/geovo-showcase)**: iPhone location simulator for Mac, Windows and iPhone. 74 paying customers in the first 6 weeks.<br>
+Rust · Tauri · TypeScript · Swift · Supabase · Stripe · [geovo.app](https://geovo.app)
 
-**[Flaavi](https://flaavi.app)**: Consent-first AI video. Put yourself, or a friend who said yes, into any clip in your own voice.<br>
-Next.js · FastAPI · Modal · Supabase · ElevenLabs · Stripe · SwiftUI · [showcase](https://github.com/aomine97/flaavi-showcase)
+**[Flaavi](https://github.com/aomine97/flaavi-showcase)**: Consent-first AI video. Put yourself, or a friend who said yes, into any clip in your own voice.<br>
+Next.js · FastAPI · Modal · Supabase · ElevenLabs · Stripe · SwiftUI
 
 ## Other projects
 
-**Paced**: Personal finance app that texts you where your money went. Private beta.<br>
-React Native · Supabase · Deno · Plaid · Twilio · [showcase](https://github.com/aomine97/paced-showcase)
+**[Paced](https://github.com/aomine97/paced-showcase)**: Personal finance app that texts you where your money went. Private beta.<br>
+React Native · Supabase · Deno · Plaid · Twilio
 
-**[FairRVU](https://fairrvu.com)**: AI contract analysis for physicians, benchmarked against MGMA data.<br>
-Next.js · Supabase · Claude API · Stripe · [showcase](https://github.com/aomine97/fairrvu-showcase)
+**[FairRVU](https://github.com/aomine97/fairrvu-showcase)**: AI contract analysis for physicians, benchmarked against MGMA data.<br>
+Next.js · Supabase · Claude API · Stripe
 
-**Rails**: Job search tool for students looking for tech roles.<br>
-TypeScript · [repo](https://github.com/aomine97/rails)
+**[Rails](https://github.com/aomine97/rails)**: Job search tool for students looking for tech roles.<br>
+TypeScript
 
 ## Experience
 
@@ -36,4 +36,3 @@ TypeScript · [repo](https://github.com/aomine97/rails)
 Learning data structures (CS61B) and systems (CS:APP). Looking for a Summer 2027 SWE or ML internship, DC area or remote.
 
 [LinkedIn](https://linkedin.com/in/pranavnepal) · navavinga@gmail.com
-
