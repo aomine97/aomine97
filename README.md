@@ -10,15 +10,20 @@ Rust · Tauri · TypeScript · Swift · Supabase · Stripe · [showcase](https:/
 **[Flaavi](https://flaavi.app)**: Consent-first AI video. Put yourself, or a friend who said yes, into any clip in your own voice.<br>
 Next.js · FastAPI · Modal · Supabase · ElevenLabs · Stripe · SwiftUI · [showcase](https://github.com/aomine97/flaavi-showcase)
 
+## Other projects
+
 **Paced**: Personal finance app that texts you where your money went. Private beta.<br>
 React Native · Supabase · Deno · Plaid · Twilio · [showcase](https://github.com/aomine97/paced-showcase)
+
+**[FairRVU](https://fairrvu.com)**: AI contract analysis for physicians, benchmarked against MGMA data.<br>
+Next.js · Supabase · Claude API · Stripe · [showcase](https://github.com/aomine97/fairrvu-showcase)
 
 **Rails**: Job search tool for students looking for tech roles.<br>
 TypeScript · [repo](https://github.com/aomine97/rails)
 
 ## Experience
 
-- Machine Learning Intern, Probe (Summer 2026)
+- Machine Learning Intern, early-stage AI startup (Summer 2026)
 - Tech Intern, Salam Consulting (2026 to present)
 
 ## Stack
@@ -31,3 +36,4 @@ TypeScript · [repo](https://github.com/aomine97/rails)
 Learning data structures (CS61B) and systems (CS:APP). Looking for a Summer 2027 SWE or ML internship, DC area or remote.
 
 [LinkedIn](https://linkedin.com/in/pranavnepal) · navavinga@gmail.com
+
