@@ -1,47 +1,36 @@
 # Pranav Nepal
 
-CS student at Northern Virginia Community College, transferring to George Mason (BS Computer Science). Founder of Flaavi and Geovo. I build products end to end, get real people to pay for them, and keep them running.
+CS student at NOVA, transferring to George Mason. I build software people pay for.
 
-## Shipped
+## Projects
 
-### [Flaavi](https://flaavi.app) — [showcase repo](https://github.com/aomine97/flaavi-showcase)
+**[Geovo](https://geovo.app)**: iPhone location simulator for Mac, Windows and iPhone. 74 paying customers in the first 6 weeks.
+Rust · Tauri · TypeScript · Swift · Supabase · Stripe · [showcase](https://github.com/aomine97/geovo-showcase)
 
-Consent-first AI video: put yourself, a friend who said yes, or a character you invent into any short clip, keeping every line and move, in your own voice. Solo-built end to end: web app, API, a credit ledger in Postgres, a render pipeline on Modal and fal, voice cloning, automatic safety checks and live Stripe billing, plus an iPhone app. Launching October 2026.
+**[Flaavi](https://flaavi.app)**: Consent-first AI video. Put yourself, or a friend who said yes, into any clip in your own voice.
+Next.js · FastAPI · Modal · Supabase · ElevenLabs · Stripe · SwiftUI · [showcase](https://github.com/aomine97/flaavi-showcase)
 
-`Next.js` `TypeScript` `Python / FastAPI` `Supabase (Postgres + RLS)` `Modal` `fal` `ElevenLabs` `AWS Rekognition` `Stripe` `SwiftUI`
+**[FairRVU](https://fairrvu.com)**: AI contract analysis for physicians. 23 paying customers, 60 contracts analyzed.
+Next.js · Supabase · Claude API · Stripe · [showcase](https://github.com/aomine97/fairrvu-showcase)
 
-### [Geovo](https://geovo.app) — [showcase repo](https://github.com/aomine97/geovo-showcase)
+**Paced**: Personal finance app that texts you where your money went. Private beta.
+React Native · Supabase · Deno · Plaid · Twilio · [showcase](https://github.com/aomine97/paced-showcase)
 
-Change an iPhone's GPS location from a Mac, a Windows PC or the iPhone itself, no jailbreak. Rust engine, Tauri desktop apps for Mac and Windows, a Swift iPhone app, Supabase edge functions and Stripe. Live with paid plans, in English, Spanish and Portuguese.
+**Rails**: Job search tool for students looking for tech roles.
+TypeScript · [repo](https://github.com/aomine97/rails)
 
-`Rust` `Tauri` `TypeScript` `Swift` `Supabase (Postgres + Deno)` `Stripe`
+## Experience
 
-### [FairRVU](https://fairrvu.com) — [showcase repo](https://github.com/aomine97/fairrvu-showcase)
-
-AI contract analysis for physicians. Upload an employment contract, get an 8-page financial breakdown against MGMA benchmarks across 41 specialties in under 60 seconds. Solo-built, live, **23 paying customers, 60 contracts analyzed**.
-
-`Next.js 14` `TypeScript` `Supabase (Postgres + RLS)` `Stripe` `Anthropic Claude API` `Puppeteer` `Netlify`
-
-### Paced — [showcase repo](https://github.com/aomine97/paced-showcase)
-
-Personal finance app that texts you where your money went. Plaid bank sync, Postgres and ten Deno edge functions in production on Supabase, React Native front end, Twilio SMS. Private beta.
-
-`TypeScript` `React Native` `Supabase` `Deno` `Plaid` `Twilio`
+- Machine Learning Intern, Probe (Summer 2026)
+- Tech Intern, Salam Consulting (2026 to present)
 
 ## Stack
 
-**Comfortable:** TypeScript, React / Next.js, Node, Postgres, SQL, Git
+**Languages:** TypeScript, Python, Rust, Swift, SQL
+**Tools:** Next.js, React Native, FastAPI, PyTorch, Supabase, Postgres, Stripe
 
-**Used in production:** Supabase, Deno, Stripe, Plaid, Twilio, Puppeteer, Netlify, Vercel, Modal, AWS, Python / FastAPI, Rust, Swift
+## Now
 
-**Learning now:** Java data structures (CS61B), C and systems (CS:APP labs), discrete math
+Learning data structures (CS61B) and systems (CS:APP). Looking for a Summer 2027 SWE or ML internship, DC area or remote.
 
-## Background
-
-Went through Y Combinator's Startup School before building FairRVU. The main thing it taught me: find users before writing code.
-
-## Looking for
-
-Summer 2027 software engineering internship, DC area or remote.
-
-[LinkedIn](https://www.linkedin.com/in/pranavnepal) — navavinga@gmail.com
+[LinkedIn](https://linkedin.com/in/pranavnepal) · navavinga@gmail.com
