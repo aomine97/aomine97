@@ -4,7 +4,7 @@ CS student at NOVA, transferring to George Mason. I build and ship full-stack ap
 
 ## Projects
 
-**[Geovo](https://github.com/aomine97/geovo-showcase)**: iPhone location simulator for Mac, Windows and iPhone. 74 paying customers in the first 6 weeks.<br>
+**[Geovo](https://github.com/aomine97/geovo-showcase)**: iPhone location simulator for Mac, Windows and iPhone. 60 paying customers and $837 MRR in its first six weeks.<br>
 Rust · Tauri · TypeScript · Swift · Supabase · Stripe · [geovo.app](https://geovo.app)
 
 **[Flaavi](https://github.com/aomine97/flaavi-showcase)**: Consent-first AI video. Put yourself, or a friend who said yes, into any clip in your own voice.<br>
